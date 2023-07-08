@@ -1,0 +1,68 @@
+.bannerBgImage{
+    height: 100vh;
+    background: url("/clark-tibbs-oqStl2L5oxI-unsplash.jpg");
+    background-size: cover;
+    position:relative;
+}
+.bannerText{
+    text-align: center;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+}
+.bannerTitle{
+    font-size: 4rem;
+}
+.bannerDesc{
+    font-size: 2rem;
+}
+.aboutBgColor{
+    height: fit-content;
+    background-color:black;
+
+}
+.SkillsBgColor{
+    height: fit-content;
+    background-color: white;
+}
+.IntershipsBgColor{
+    height: fit-content;
+    background-color: white;
+}
+.ContactBgColor{
+    height: fit-content;
+    background-color: white;
+}
+.text-right{
+    color: white;
+}
+.about{
+    color: white;
+}
+.col{
+    background-color: black;
+}
+.card{
+    cursor: pointer;
+    color: white;
+    background-color: black;
+}
+.card:hover{
+    background-color: rgb(94, 85, 85);
+    border: 2px solid rgba(0, 0, 0, 0.418);
+}
+.bIcon{
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+}
+.img-fluid:hover{
+    background-color: white;
+    border: 4px solid rgba(0, 0, 0, 0.418);
+
+}
+.contact{
+    color: black;
+}
