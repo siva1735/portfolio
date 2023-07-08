@@ -1,6 +1,6 @@
 .bannerBgImage{
     height: 100vh;
-    background: url("/clark-tibbs-oqStl2L5oxI-unsplash.jpg");
+    background: url("./clark-tibbs-oqStl2L5oxI-unsplash.jpg");
     background-size: cover;
     position:relative;
 }
